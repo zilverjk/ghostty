@@ -1,0 +1,6 @@
+theme = tokyonight
+font-family = Liga MonoLisaNerdFontCompleteMonoNer
+font-size = 13
+cursor-style-blink = false
+background-opacity = 0.9
+macos-titlebar-style = hidden
