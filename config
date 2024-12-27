@@ -4,3 +4,7 @@ font-size = 13
 cursor-style-blink = false
 background-opacity = 0.9
 macos-titlebar-style = hidden
+confirm-close-surface = false
+quick-terminal-animation-duration = 0.0
+mouse-hide-while-typing = true
+focus-follows-mouse = true
